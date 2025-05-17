@@ -56,6 +56,8 @@ Exp3-StringHandlingExamples :
 
 3.c String Exercise Program 7 (StringExerciseP9.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp3-StringHandlingExamples/Screenshot%202025-05-17%20235138.png
 
-3.c String Exercise Program 10 (StringExerciseP10.java) Output Link :
+3.c String Exercise Program 10 (StringExerciseP10.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp3-StringHandlingExamples/Screenshot%202025-05-17%20235316.png
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
