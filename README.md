@@ -28,7 +28,7 @@ Exp1-ListImplementation:
 
 Exp2-StringOperations : 
 
-2.a String operations () Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp2-StringOperations/Screenshot%202025-05-17%20202753.png
+2.a String operations (StringHandlingDemo.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp2-StringOperations/Screenshot%202025-05-17%20202753.png
 
 2.b Performance Test on  StringBuffer and StringBuilder () Output Link : 
 
