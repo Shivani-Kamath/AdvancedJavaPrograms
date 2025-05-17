@@ -46,7 +46,7 @@ Exp3-StringHandlingExamples :
 
 3.b String Exercise Program 4 (StringExerciseP4.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp3-StringHandlingExamples/Screenshot%202025-05-17%20234341.png
 
-3.b String Exercise Program 5 (StringExerciseP5.java) Output Link : 
+3.b String Exercise Program 5 (StringExerciseP5.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp3-StringHandlingExamples/Screenshot%202025-05-17%20234545.png
 
 3.c String Exercise Program 6 (StringExerciseP6.java) Output Link :
 3.c String Exercise Program 7 (StringExerciseP7.java) Output Link :
