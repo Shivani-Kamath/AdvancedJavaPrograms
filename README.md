@@ -6,7 +6,8 @@
 
 1.b Array List programs 2 (ArrayListP2.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp1-ListImplementation/Screenshot%202025-05-17%20195450.png
 
-1.b Array List programs 3 (ArrayListP3.java) Output Link : 
+1.b Array List programs 3 (ArrayListP3.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp1-ListImplementation/Screenshot%202025-05-17%20195643.png
+
 1.b Array List programs 4 (ArrayListP4.java) Output Link : 
 1.b Array List programs 5 (ArrayListP5.java) Output Link : 
 
