@@ -16,7 +16,8 @@
 
 1.b Linked List program 2 (LinkedListP2.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp1-ListImplementation/Screenshot%202025-05-17%20200525.png
 
-1.b Linked List program 3 (LinkedListP3.java) Output Link :
+1.b Linked List program 3 (LinkedListP3.java) Output Link : https://github.com/Shivani-Kamath/AdvancedJavaPrograms/blob/main/Exp1-ListImplementation/Screenshot%202025-05-17%20200650.png
+
 1.b Linked List program 4 (LinkedListP4.java) Output Link :
 1.b Linked List program 5 (LinkedListP5.java) Output Link :
 
